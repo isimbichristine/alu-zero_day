@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-cindy
-aurore
+Cindy
+christine
 =======
 geograpgy
 history
